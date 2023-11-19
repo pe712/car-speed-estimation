@@ -4,3 +4,4 @@
 runs
 data/color_classification
 logs
+models/color_model*.keras
