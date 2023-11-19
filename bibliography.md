@@ -11,3 +11,6 @@ custom training of YOLOv8 for plate recognition:
         - https://github.com/jonG312/YOLOv8-Vehicle-Plate-Recognition
     unused utils:
         - https://github.com/computervisioneng/automatic-number-plate-recognition-python-yolov8
+
+car color classification:
+    - https://github.com/Spectra456/Color-Recognition-CNN (and associated article)

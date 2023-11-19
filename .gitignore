@@ -2,3 +2,5 @@
 *.pyc
 *.mp4
 runs
+data/color_classification
+logs
